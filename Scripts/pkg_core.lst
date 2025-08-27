@@ -72,7 +72,7 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
 vim                                                    # terminal text editor
-nvim
+neovim
 yazi
 lazygit
 nwg-displays                                           # monitor management utility
